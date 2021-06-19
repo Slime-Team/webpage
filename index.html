@@ -38,12 +38,8 @@
         min-width: 512px;
         margin: auto;
     } 
-    .profile-block{
-        position: relative;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
+    .profile-block img{
+        width: 256px;
     }
     .block{
         position: relative;
@@ -59,9 +55,6 @@
         align-items: center;
         padding: 0px;
         list-style-type: disc;
-        
-
-
     }
     .social-item {
         display: flex;
@@ -71,6 +64,7 @@
         padding: 27px 18px;
         background-color: #26324F;
         border-radius: 10px;
+        width: 100px;
     }
     .social-item a {
         display: none;
@@ -91,18 +85,16 @@
         transition: transform .3s, filter .3s, opacity .3s ease-in-out;
       }
 
-
 </style>
 
 <body>   
     <div class="main-page">
         <!-- logo and text -->
-        <div class="profile-block">
-            <div style="margin-top: 32px;"></div>
+        <div class="profile-block block">
+            <div style="margin-top: 64px;"></div>
             <img src="images/slime.png" alt="" srcset=""> 
             <div style="margin-top: 32px;"></div>
         </div>
-
 
         <div class="block">
             <div class="social">
@@ -113,8 +105,9 @@
 
             </div>
         </div>
+
         <div class="block">
-            <h2>PASSIONATE GAME DEVS AND ARTIST COLLECTIVE</h2>
+            <h2 class="theme">PASSIONATE GAME DEVS AND ARTIST COLLECTIVE</h2>
         </div>
 
         <hr>
