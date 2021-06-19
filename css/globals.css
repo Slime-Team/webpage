@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 body{
     font-family: 'Poppins', sans-serif;
@@ -12,6 +12,7 @@ body{
 img{
     margin: 0 auto;
 }
+
 hr {
     width: 96%;
     border: 1px solid #26324F;
@@ -48,10 +49,11 @@ hr {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 27px 18px;
+    margin: 1rem;
+    height: 7rem;
+    width: 7rem;
     background-color: #26324F;
     border-radius: 10px;
-    width: 100px;
 }
 .social-item a {
     display: none;
@@ -70,4 +72,59 @@ hr {
 }
 .img-hover-zoom img {
     transition: transform .3s, filter .3s, opacity .3s ease-in-out;
-  }
+}
+
+/* Frano Styles */
+
+.blue-title {
+    color: #6786D3;
+}
+
+.game{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    list-style-type: disc;
+    margin-bottom: 0px;
+}
+.game-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    height: 14rem;
+    width: 25rem;
+    border-radius: 10px;
+}
+.game-item a {
+    display: none;
+    color: #ffffff;
+    opacity: 0;
+    text-align: center;
+}
+.game-item img{
+    height: 12rem;
+    width: 23rem;
+    margin-bottom: 8px;
+    background-color: #26324F;
+    border-radius: 10px;
+    filter: brightness(97%) contrast(89%);
+    opacity: 0.3;
+}
+.game-item:hover img{
+    filter: brightness(94%) contrast(106%);
+    transform: scale(1.1);
+    opacity: 1;
+}
+
+.game-item-name {
+    color:#6786D3;
+}
+
+.game-item-desc {
+    opacity: 70%;
+    font-weight: 200;
+}
