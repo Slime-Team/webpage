@@ -1,7 +1,6 @@
 # slimeteam.github.io
 
-Sitio web de slime team
-Pensado para ser publicado en github.io
+Sitio web de slime team, pensado para ser publicado en github.io
 
 ## pautas
 Seguir o proponer los estilos desde el mockup creado en figma:
