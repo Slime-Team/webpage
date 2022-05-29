@@ -3,9 +3,6 @@
 Sitio web de slime team, pensado para ser publicado en github.io
 [website](https://slime-team.github.io/webpage/)
 
-## pautas
-Seguir o proponer los estilos desde el mockup creado en figma:
-[mockup del proyecto](https://www.figma.com/file/XfBdddqbCkFeinc7FeUaIK/Slime-group-UI?node-id=304%3A3)
 
 ## estructura o ideas para agregar
 - logo
