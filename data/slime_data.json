@@ -1,0 +1,101 @@
+{
+    "content": {
+        "title": "Slime Team Game Development ",
+        "subtitle": "PASSIONATE INDIE GAME DEVELOPERS AND ARTIST COLLECTIVE'"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/slimeteamdev",
+            "icon": "./assets/twitter.png"
+        },
+        {
+            "name": "Itch.io",
+            "url": "https://slimeteam.itch.io",
+            "icon": "./assets/itch.png"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/slime_gamedev",
+            "icon": "./assets/ig.png"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://www.reddit.com/user/slimeteamdev",
+            "icon": "./assets/reddit.png"
+        }
+    ],
+    "current-game":{
+        "name": "Rhythm Match",
+        "itch_url": "https://slimeteam.itch.io/rhythm-match",
+        "game-logo": ""
+    },
+    "games": [
+        {
+            "name" : "Slimes Ate My City!",
+            "link" : "https://franopx.itch.io/slimegamejam",
+            "background": "./assets/games/samc.png",
+            "game_title": "./assets/games/samc_logo.png",
+            "description": "A game made for the Mash-Up Game Jam 2020."
+        },
+        {
+            "name" : "Speed Thief",
+            "link" : "https://franopx.itch.io/speed-thief",
+            "background": "./assets/games/speed_thief.png",
+            "game_title": "./assets/games/speed_thief_logo.png",
+            "description": "1st place in the GOTM Game Jam."
+        },
+        {
+            "name" : "Grow Your Way Out",
+            "link" : "https://franopx.itch.io/grow-your-way-out",
+            "background": "https://img.itch.zone/aW1nLzYwOTYxNzkuZ2lm/original/kGbgGq.gif",
+            "game_title": "./assets/games/gywo_logo.png",
+            "description": "2nd place in 2D category for the Gogodot Game Jam."
+        },
+        {
+            "name" : "Rhythm Match",
+            "link" : "https://slimeteam.itch.io/rhythm-match",
+            "background": "./assets/games/rm3.png",
+            "game_title": "./assets/games/rm3_title.png",
+            "description": "A Match Three game, where the music keeps the rhythm of the action."
+        }
+    ],
+    "team": [
+        {
+            "name": "Juan R.",
+            "role": "Producer & Sound Design",
+            "icon": "",
+            "url": ""
+        },
+        {
+            "name": "Nicolas A.",
+            "role": "UI/UX Designer",
+            "icon": "",
+            "url": ""
+        },
+        {
+            "name": "Francisco G.",
+            "role": "2D Artist",
+            "icon": "",
+            "url": ""
+        },
+        {
+            "name": "Gabriel O.",
+            "role": "Developer",
+            "icon": "",
+            "url": ""
+        },
+        {
+            "name": "Alonso M.",
+            "role": "Game Designer",
+            "icon": "",
+            "url": ""
+        },
+        {
+            "name": "Leandro G.",
+            "role": "Musician",
+            "icon": "",
+            "url": ""
+        }
+    ]
+}
