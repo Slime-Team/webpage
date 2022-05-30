@@ -92,9 +92,8 @@ You can run the newly built app with `npm run start`. This uses [sirv](https://g
 ##/public/build/
     
   // in bash (WIP)
-   $ git remote add origin https://github.com/Slime-Team/webpage.git
-   $ git subtree push --prefix public/ remote origin main
-
+   $ git subtree push --prefix public/ origin gh-pages ## to test
+   $git subtree push --prefix public/ origin main ## to build
 ```
 
 
